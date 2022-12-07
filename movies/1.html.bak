@@ -17,7 +17,7 @@ h1{ font-size:30px;}
 
 
 <body>
-<div id="main" style="height: 250px;">
+<div id="main" style="height: 100px;">
    <h1>vip视频在线解析</h1>
   <p>==请在下方输入你要解析的视频播放地址！==</p>
   <p>本站不进行任何资源存储，只提供影视检索服务</p>
