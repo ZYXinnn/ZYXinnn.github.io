@@ -197,7 +197,7 @@
     <option value="https://jx.bozrc.com:4433/player/?url=" selected="" >4号(1080P+弹幕)</option>
     <option value="https://17kyun.com/jx.php?url=" selected="" >3号暂时失效</option>
     <option value="http://jx.ivito.cn/?url=" selected="" >2号</option>
-      <option value="https://okjx.cc/?url=" selected="" >1号</option>
+      <option value="https://okjx.cc/?url=" selected="" >1号</option> </select>
       <option value="https://jx.jsonplayer.com/player/?url=" selected="" >0号(1080P+弹幕)</option> </select>
      </div>
      <br>
