@@ -72,3 +72,4 @@ function fetchUserInfo() {
 
 // 页面加载完成后调用函数
 document.addEventListener('DOMContentLoaded', fetchUserInfo);
+
